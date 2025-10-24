@@ -16,9 +16,9 @@ It demonstrates the use of at least five different data structures and applies e
 - GitHub for version control and collaboration
 
 ## Group Members
-Juma  Marvin Maina   _  CT204/119561/24
-Lilian Lyimo                _  CT204/120638/24
-Ronny Wesley Otieno  _ CT204/119562/24
-Hosea Wamathai         _ CT204/109976/22
+-Juma  Marvin Maina   _  CT204/119561/24
+-Lilian Lyimo                _  CT204/120638/24
+-Ronny Wesley Otieno  _ CT204/119562/24
+-Hosea Wamathai         _ CT204/109976/22
 ## License
 This project is for academic purposes only.
